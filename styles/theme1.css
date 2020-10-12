@@ -1,0 +1,11 @@
+.row {
+  display: flex;
+}
+
+.main_content_left {
+  flex: 90%;
+}
+
+.main_content_right {
+  flex: 10%;
+}
